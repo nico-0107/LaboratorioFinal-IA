@@ -1,0 +1,401 @@
+cliente_id,region,experiencia_digital,satisfaccion_servicio,ingreso_anual_soles,gasto_mensual_soles,ratio_deuda,indice_ahorro,clase
+CLI-01785,Cusco,Alto,Media,61173.93,3389.23,0.4205,0.4574,Clase_B_riesgo_medio
+CLI-00498,Lima,Alto,Muy alta,68075.54,3052.02,0.02,0.9584,Clase_A_bajo_riesgo
+CLI-00091,Lima,Alto,Muy alta,64667.8,3073.33,0.02,0.9085,Clase_A_bajo_riesgo
+CLI-01038,La Libertad,Muy alto,Media,58195.67,3077.08,0.4113,0.4683,Clase_C_alto_riesgo
+CLI-00791,Lima,Alto,Media,53295.25,2480.72,0.174,0.7551,Clase_B_riesgo_medio
+CLI-01645,Lima,Alto,Alta,34882.12,1572.31,0.2795,0.526,Clase_C_alto_riesgo
+CLI-01430,Piura,Medio,Media,70911.48,2987.31,0.2903,0.7714,Clase_A_bajo_riesgo
+CLI-00077,La Libertad,Bajo,Muy baja,25937.03,1349.75,0.2798,0.4608,Clase_B_riesgo_medio
+CLI-00853,Lima,Bajo,Media,42557.0,2131.46,0.4,0.5552,Clase_C_alto_riesgo
+CLI-01084,Piura,Medio,Media,70191.72,3162.88,0.5168,0.3706,Clase_C_alto_riesgo
+CLI-00376,Lima,Bajo,Muy alta,26348.32,1395.0,0.0998,0.7955,Clase_B_riesgo_medio
+CLI-01213,Lima,Bajo,Muy baja,21762.76,1144.43,0.513,0.3652,Clase_C_alto_riesgo
+CLI-01560,Junín,Medio,Muy alta,78434.37,3845.06,0.0399,0.8125,Clase_B_riesgo_medio
+CLI-01529,Piura,Muy alto,Muy alta,51920.45,2282.69,0.02,0.98,Clase_A_bajo_riesgo
+CLI-01106,Lima,Medio,Baja,44762.76,2347.61,0.481,0.3936,Clase_C_alto_riesgo
+CLI-00023,Lima,Muy alto,Baja,101905.42,5085.68,0.583,0.3931,Clase_B_riesgo_medio
+CLI-00339,Arequipa,Bajo,Baja,57520.14,2749.23,0.3817,0.5198,Clase_B_riesgo_medio
+CLI-01583,Cusco,Medio,Media,60911.12,2413.93,0.4102,0.3798,Clase_C_alto_riesgo
+CLI-00174,Lima,Alto,Media,32945.92,1866.42,0.1726,0.5904,Clase_B_riesgo_medio
+CLI-01002,Arequipa,Alto,Alta,61204.99,2463.93,0.2498,0.6251,Clase_A_bajo_riesgo
+CLI-00205,Cusco,Alto,Media,29981.05,1844.55,0.1373,0.7002,Clase_A_bajo_riesgo
+CLI-01432,Arequipa,Muy alto,Alta,46614.17,2402.12,0.2627,0.6821,Clase_B_riesgo_medio
+CLI-00362,Cusco,Medio,Baja,21538.75,1222.84,0.351,0.5959,Clase_B_riesgo_medio
+CLI-01149,Piura,Alto,Media,46657.57,1930.31,0.2139,0.6775,Clase_A_bajo_riesgo
+CLI-00338,La Libertad,Medio,Muy alta,104334.62,4321.92,0.2975,0.5368,Clase_B_riesgo_medio
+CLI-00633,Arequipa,Bajo,Muy baja,52719.62,2296.33,0.5632,0.4401,Clase_C_alto_riesgo
+CLI-00100,Lima,Medio,Alta,38152.86,1999.28,0.1253,0.9444,Clase_A_bajo_riesgo
+CLI-01310,Piura,Medio,Media,58613.4,3087.0,0.3435,0.4405,Clase_C_alto_riesgo
+CLI-01824,La Libertad,Medio,Media,70058.81,4155.31,0.1264,0.7555,Clase_A_bajo_riesgo
+CLI-01082,Lima,Alto,Muy alta,57542.11,2789.43,0.0507,0.8592,Clase_A_bajo_riesgo
+CLI-00769,Lima,Medio,Muy alta,72035.61,3592.39,0.2579,0.6664,Clase_B_riesgo_medio
+CLI-01951,Lima,Bajo,Media,28057.14,1537.98,0.144,0.6844,Clase_C_alto_riesgo
+CLI-01916,La Libertad,Medio,Muy baja,27693.64,1967.09,0.4442,0.3715,Clase_C_alto_riesgo
+CLI-01524,Lima,Bajo,Media,33892.89,1865.57,0.2249,0.6853,Clase_A_bajo_riesgo
+CLI-00392,Lima,Bajo,Media,41622.09,2746.98,0.0731,0.8899,Clase_A_bajo_riesgo
+CLI-01329,Cusco,Bajo,Baja,49506.83,2550.75,0.4343,0.3209,Clase_C_alto_riesgo
+CLI-01022,Lima,Medio,Alta,43901.6,2388.04,0.0329,0.8466,Clase_B_riesgo_medio
+CLI-00901,Lima,Bajo,Alta,60812.77,3810.25,0.3293,0.6103,Clase_C_alto_riesgo
+CLI-00597,La Libertad,Bajo,Media,32433.43,1718.24,0.2565,0.5776,Clase_B_riesgo_medio
+CLI-01173,Cusco,Bajo,Media,54661.65,3042.54,0.4501,0.4487,Clase_C_alto_riesgo
+CLI-00296,Arequipa,Bajo,Baja,34097.15,1843.94,0.2469,0.537,Clase_C_alto_riesgo
+CLI-00877,La Libertad,Medio,Baja,36769.92,1629.5,0.5139,0.4665,Clase_C_alto_riesgo
+CLI-01948,Lima,Medio,Baja,53993.99,2560.16,0.4209,0.4431,Clase_B_riesgo_medio
+CLI-01240,Lima,Medio,Baja,34669.1,1668.45,0.3314,0.4965,Clase_C_alto_riesgo
+CLI-00424,Arequipa,Medio,Baja,82942.99,4573.92,0.7504,0.1304,Clase_C_alto_riesgo
+CLI-01145,Lima,Bajo,Baja,29139.03,1569.28,0.4153,0.3538,Clase_C_alto_riesgo
+CLI-00770,Piura,Alto,Muy baja,70667.69,3571.31,0.6823,0.2949,Clase_C_alto_riesgo
+CLI-00259,Cusco,Medio,Media,68835.79,3440.72,0.4795,0.3533,Clase_B_riesgo_medio
+CLI-00020,Lima,Alto,Muy baja,48994.69,1886.52,0.5886,0.3763,Clase_C_alto_riesgo
+CLI-01143,La Libertad,Medio,Muy alta,42575.43,2448.9,0.0649,0.9247,Clase_A_bajo_riesgo
+CLI-00517,Lima,Bajo,Muy baja,41168.07,1720.3,0.275,0.5778,Clase_C_alto_riesgo
+CLI-00595,Piura,Bajo,Alta,67919.62,3958.0,0.4261,0.5696,Clase_B_riesgo_medio
+CLI-01674,Piura,Bajo,Baja,26881.46,1268.36,0.2404,0.4559,Clase_B_riesgo_medio
+CLI-00463,La Libertad,Medio,Muy baja,29682.51,1406.41,0.3892,0.4785,Clase_B_riesgo_medio
+CLI-00690,Lima,Medio,Media,41943.68,1995.2,0.3326,0.6506,Clase_B_riesgo_medio
+CLI-00140,Junín,Alto,Muy alta,41386.39,2079.06,0.1764,0.7833,Clase_A_bajo_riesgo
+CLI-00470,Junín,Medio,Muy baja,66858.34,3704.61,0.6131,0.2729,Clase_C_alto_riesgo
+CLI-00401,Lima,Medio,Baja,47906.73,2265.72,0.3562,0.4969,Clase_C_alto_riesgo
+CLI-01699,Junín,Muy alto,Muy alta,97819.94,4842.87,0.1675,0.8669,Clase_A_bajo_riesgo
+CLI-00441,Lima,Medio,Baja,56825.2,3082.88,0.3946,0.4994,Clase_C_alto_riesgo
+CLI-00608,Lima,Bajo,Baja,42475.94,2128.69,0.3071,0.5126,Clase_C_alto_riesgo
+CLI-00622,Lima,Alto,Muy baja,57370.96,2875.03,0.5665,0.378,Clase_C_alto_riesgo
+CLI-00936,Lima,Bajo,Muy baja,45898.71,2072.5,0.5946,0.2387,Clase_C_alto_riesgo
+CLI-01979,Piura,Bajo,Muy baja,50625.61,2380.32,0.687,0.1721,Clase_C_alto_riesgo
+CLI-01251,Piura,Medio,Baja,61423.34,2816.58,0.5265,0.3754,Clase_C_alto_riesgo
+CLI-00775,Piura,Medio,Muy baja,70070.1,3459.67,0.8619,0.0187,Clase_C_alto_riesgo
+CLI-01716,Junín,Medio,Media,54638.27,2580.13,0.3542,0.6885,Clase_B_riesgo_medio
+CLI-00505,La Libertad,Bajo,Baja,48624.0,2345.66,0.2982,0.4783,Clase_C_alto_riesgo
+CLI-01998,Lima,Medio,Muy baja,49804.99,1967.32,0.4698,0.4337,Clase_C_alto_riesgo
+CLI-01834,La Libertad,Medio,Alta,64836.55,3686.02,0.3739,0.5489,Clase_B_riesgo_medio
+CLI-00242,Junín,Bajo,Media,36182.43,2233.12,0.3605,0.5349,Clase_B_riesgo_medio
+CLI-01393,Lima,Alto,Muy alta,100650.45,4589.86,0.1253,0.8297,Clase_A_bajo_riesgo
+CLI-00948,Junín,Medio,Muy baja,54851.62,2635.07,0.5819,0.3035,Clase_C_alto_riesgo
+CLI-01649,Piura,Medio,Alta,37766.17,1650.0,0.1803,0.6659,Clase_A_bajo_riesgo
+CLI-00093,La Libertad,Bajo,Muy baja,53062.94,2514.42,0.4628,0.5239,Clase_C_alto_riesgo
+CLI-01754,Lima,Alto,Alta,98086.49,5183.68,0.3662,0.5019,Clase_B_riesgo_medio
+CLI-00370,Lima,Alto,Muy alta,130066.93,6138.5,0.2796,0.6955,Clase_A_bajo_riesgo
+CLI-00687,Cusco,Bajo,Media,77756.45,4389.38,0.1003,0.8756,Clase_A_bajo_riesgo
+CLI-00403,Arequipa,Medio,Baja,54636.58,2185.82,0.5068,0.3248,Clase_C_alto_riesgo
+CLI-00785,Lima,Alto,Media,47247.25,2126.95,0.4373,0.481,Clase_C_alto_riesgo
+CLI-01517,Cusco,Bajo,Baja,57679.52,3072.64,0.5937,0.2259,Clase_C_alto_riesgo
+CLI-01792,La Libertad,Bajo,Baja,49767.18,2803.21,0.4587,0.1984,Clase_C_alto_riesgo
+CLI-00271,Piura,Bajo,Baja,49950.88,2403.33,0.2503,0.5032,Clase_B_riesgo_medio
+CLI-00944,Piura,Alto,Muy alta,44092.37,2181.71,0.147,0.9075,Clase_A_bajo_riesgo
+CLI-01702,Arequipa,Alto,Media,56174.61,2693.03,0.4545,0.4034,Clase_C_alto_riesgo
+CLI-00030,Lima,Medio,Baja,70235.22,3962.27,0.739,0.0776,Clase_C_alto_riesgo
+CLI-01283,Cusco,Alto,Muy baja,35396.37,1405.01,0.4466,0.5208,Clase_C_alto_riesgo
+CLI-01891,Lima,Alto,Alta,90790.27,3843.43,0.0875,0.8044,Clase_A_bajo_riesgo
+CLI-01811,La Libertad,Alto,Baja,53003.16,2771.86,0.2699,0.5745,Clase_B_riesgo_medio
+CLI-00327,Cusco,Alto,Baja,40375.27,1591.75,0.3353,0.5115,Clase_B_riesgo_medio
+CLI-01183,Cusco,Medio,Alta,71514.04,3241.72,0.2993,0.6289,Clase_B_riesgo_medio
+CLI-00241,Junín,Alto,Muy alta,140526.44,5547.98,0.2283,0.6785,Clase_A_bajo_riesgo
+CLI-00873,Cusco,Alto,Muy alta,82260.39,3321.25,0.02,0.98,Clase_A_bajo_riesgo
+CLI-01717,Lima,Medio,Baja,39694.09,1916.87,0.5136,0.3941,Clase_C_alto_riesgo
+CLI-01957,Cusco,Muy alto,Alta,66770.16,3637.93,0.1991,0.6781,Clase_A_bajo_riesgo
+CLI-00462,Cusco,Alto,Muy alta,83280.19,4087.06,0.1964,0.7202,Clase_B_riesgo_medio
+CLI-00269,Lima,Bajo,Alta,46442.77,2518.5,0.2382,0.6074,Clase_B_riesgo_medio
+CLI-00896,Lima,Alto,Muy alta,63833.93,3327.86,0.2541,0.6778,Clase_A_bajo_riesgo
+CLI-01514,Lima,Alto,Media,31891.43,1928.31,0.2866,0.5332,Clase_B_riesgo_medio
+CLI-01017,Lima,Alto,Baja,55456.61,2783.39,0.5959,0.3023,Clase_C_alto_riesgo
+CLI-00750,Cusco,Medio,Media,29301.98,1147.93,0.2771,0.5274,Clase_B_riesgo_medio
+CLI-01522,Junín,Medio,Alta,55022.66,2312.28,0.4198,0.5304,Clase_B_riesgo_medio
+CLI-01771,Arequipa,Medio,Baja,30625.45,1443.36,0.2281,0.6868,Clase_B_riesgo_medio
+CLI-00055,Cusco,Alto,Alta,111697.0,5021.52,0.3704,0.5817,Clase_A_bajo_riesgo
+CLI-00577,Lima,Muy alto,Muy alta,94978.59,4376.82,0.1144,0.9165,Clase_A_bajo_riesgo
+CLI-01330,Arequipa,Alto,Baja,47590.58,1927.41,0.2825,0.5153,Clase_B_riesgo_medio
+CLI-01180,Arequipa,Alto,Muy alta,71771.0,3122.61,0.02,0.8931,Clase_A_bajo_riesgo
+CLI-00076,La Libertad,Alto,Muy alta,122557.95,5868.27,0.1382,0.7397,Clase_A_bajo_riesgo
+CLI-00293,Piura,Bajo,Muy baja,35189.21,1699.97,0.3184,0.5712,Clase_C_alto_riesgo
+CLI-00274,Junín,Medio,Media,83413.53,3552.58,0.4836,0.3725,Clase_C_alto_riesgo
+CLI-00930,Lima,Medio,Media,51550.88,2193.61,0.2318,0.6496,Clase_B_riesgo_medio
+CLI-00005,Lima,Bajo,Muy baja,35438.2,1968.93,0.4862,0.2865,Clase_C_alto_riesgo
+CLI-01862,Cusco,Medio,Media,58179.94,3064.48,0.1959,0.6594,Clase_B_riesgo_medio
+CLI-00177,La Libertad,Bajo,Baja,71814.81,3335.85,0.2444,0.6473,Clase_B_riesgo_medio
+CLI-00046,La Libertad,Alto,Baja,96371.81,4838.71,0.4856,0.4681,Clase_B_riesgo_medio
+CLI-00804,Cusco,Muy alto,Muy alta,144115.08,8573.3,0.412,0.5665,Clase_B_riesgo_medio
+CLI-00170,Cusco,Medio,Alta,39977.69,2203.85,0.0518,0.9237,Clase_A_bajo_riesgo
+CLI-01239,Junín,Medio,Media,35516.22,2081.9,0.1142,0.6621,Clase_A_bajo_riesgo
+CLI-01138,Arequipa,Alto,Muy baja,33179.13,2079.42,0.4812,0.494,Clase_B_riesgo_medio
+CLI-01325,Junín,Alto,Baja,42995.1,2428.54,0.3289,0.5486,Clase_B_riesgo_medio
+CLI-00731,Lima,Alto,Alta,62589.86,2585.54,0.2965,0.594,Clase_B_riesgo_medio
+CLI-01018,Cusco,Medio,Media,60280.99,3164.37,0.1527,0.7475,Clase_A_bajo_riesgo
+CLI-00565,Lima,Medio,Baja,26837.33,1418.74,0.1955,0.6693,Clase_B_riesgo_medio
+CLI-00614,Lima,Alto,Alta,49066.07,2421.05,0.1019,0.7622,Clase_A_bajo_riesgo
+CLI-01489,Lima,Bajo,Muy baja,24853.67,1011.53,0.5096,0.3169,Clase_C_alto_riesgo
+CLI-00744,Arequipa,Bajo,Media,40158.01,1401.29,0.145,0.6565,Clase_C_alto_riesgo
+CLI-00151,Junín,Medio,Muy alta,97660.41,4176.34,0.0219,0.8017,Clase_A_bajo_riesgo
+CLI-01023,Junín,Alto,Alta,65892.01,2912.93,0.2696,0.6843,Clase_A_bajo_riesgo
+CLI-00587,Lima,Bajo,Alta,28907.13,1417.67,0.1237,0.7419,Clase_A_bajo_riesgo
+CLI-01626,La Libertad,Bajo,Alta,29090.59,1314.97,0.02,0.8125,Clase_B_riesgo_medio
+CLI-01391,Lima,Medio,Media,58454.8,2946.97,0.2158,0.6763,Clase_A_bajo_riesgo
+CLI-00423,Lima,Alto,Media,132908.09,7737.04,0.5211,0.453,Clase_C_alto_riesgo
+CLI-01874,Piura,Alto,Alta,95477.76,4345.4,0.423,0.5689,Clase_B_riesgo_medio
+CLI-01224,Junín,Bajo,Alta,45114.19,2081.58,0.02,0.8544,Clase_A_bajo_riesgo
+CLI-00662,Junín,Alto,Media,37800.15,1983.41,0.4867,0.4127,Clase_B_riesgo_medio
+CLI-00537,Piura,Alto,Media,82572.74,4805.81,0.4487,0.4337,Clase_B_riesgo_medio
+CLI-01469,Piura,Alto,Media,46003.29,2369.34,0.391,0.5059,Clase_C_alto_riesgo
+CLI-00650,Arequipa,Medio,Media,23670.11,1640.33,0.2247,0.6067,Clase_B_riesgo_medio
+CLI-01451,Arequipa,Medio,Media,64913.72,2489.22,0.3433,0.63,Clase_A_bajo_riesgo
+CLI-00825,Arequipa,Medio,Muy alta,165674.71,9340.98,0.0568,0.703,Clase_A_bajo_riesgo
+CLI-00513,Junín,Medio,Media,73953.65,4636.0,0.3321,0.5333,Clase_C_alto_riesgo
+CLI-01796,Lima,Medio,Media,72289.65,3232.52,0.3155,0.5412,Clase_B_riesgo_medio
+CLI-01498,Arequipa,Alto,Muy alta,134439.95,7296.44,0.02,0.8829,Clase_A_bajo_riesgo
+CLI-00499,Junín,Muy alto,Alta,70454.88,4109.41,0.3171,0.6327,Clase_A_bajo_riesgo
+CLI-00313,Lima,Medio,Alta,48303.93,2989.07,0.0288,0.8445,Clase_A_bajo_riesgo
+CLI-00334,Lima,Alto,Media,54659.94,2856.35,0.3159,0.5574,Clase_B_riesgo_medio
+CLI-00922,Arequipa,Alto,Baja,52778.79,3259.22,0.2963,0.5317,Clase_B_riesgo_medio
+CLI-01839,Junín,Muy alto,Muy alta,92072.91,5027.98,0.0372,0.8309,Clase_A_bajo_riesgo
+CLI-00409,Junín,Muy alto,Alta,76653.33,4073.74,0.02,0.98,Clase_A_bajo_riesgo
+CLI-01587,La Libertad,Medio,Muy alta,92009.66,4455.09,0.2638,0.7166,Clase_A_bajo_riesgo
+CLI-00105,Junín,Alto,Muy alta,42034.52,2306.38,0.045,0.9305,Clase_A_bajo_riesgo
+CLI-00285,Cusco,Bajo,Baja,44514.64,2134.94,0.3746,0.4862,Clase_B_riesgo_medio
+CLI-00937,Lima,Alto,Media,94769.77,4633.33,0.4766,0.4855,Clase_C_alto_riesgo
+CLI-01504,Lima,Bajo,Baja,37887.52,1597.2,0.3105,0.5261,Clase_B_riesgo_medio
+CLI-00275,Arequipa,Muy alto,Muy alta,85686.9,4311.62,0.0895,0.938,Clase_A_bajo_riesgo
+CLI-00796,Piura,Medio,Alta,62118.1,3049.62,0.2762,0.6506,Clase_B_riesgo_medio
+CLI-01098,Lima,Bajo,Alta,62534.18,2769.55,0.1462,0.72,Clase_B_riesgo_medio
+CLI-01164,La Libertad,Medio,Media,48013.59,2184.14,0.2722,0.6883,Clase_A_bajo_riesgo
+CLI-01803,Lima,Alto,Muy alta,52516.13,3017.86,0.02,0.8126,Clase_A_bajo_riesgo
+CLI-01730,Cusco,Medio,Media,92191.01,5212.67,0.1829,0.7835,Clase_B_riesgo_medio
+CLI-00605,Lima,Bajo,Alta,30978.68,1325.33,0.1577,0.822,Clase_A_bajo_riesgo
+CLI-01110,Lima,Medio,Media,23428.25,1214.28,0.2365,0.7626,Clase_C_alto_riesgo
+CLI-00142,Lima,Medio,Alta,77047.66,4104.11,0.1526,0.7187,Clase_B_riesgo_medio
+CLI-00153,Lima,Alto,Baja,37831.14,1846.64,0.5144,0.2511,Clase_C_alto_riesgo
+CLI-01758,Arequipa,Medio,Media,54194.28,2501.19,0.2627,0.6723,Clase_A_bajo_riesgo
+CLI-01121,Piura,Bajo,Media,41114.38,1733.69,0.5023,0.3271,Clase_C_alto_riesgo
+CLI-01472,La Libertad,Alto,Media,69676.76,3447.16,0.3269,0.4753,Clase_C_alto_riesgo
+CLI-00341,Arequipa,Alto,Media,55293.07,1673.39,0.3249,0.616,Clase_B_riesgo_medio
+CLI-01431,Arequipa,Medio,Baja,41996.03,1865.51,0.6513,0.1727,Clase_C_alto_riesgo
+CLI-01135,La Libertad,Bajo,Baja,24005.99,1566.89,0.3864,0.4133,Clase_C_alto_riesgo
+CLI-01195,Lima,Medio,Baja,45494.77,2138.65,0.2389,0.5252,Clase_C_alto_riesgo
+CLI-01457,La Libertad,Medio,Baja,51084.09,2768.65,0.3695,0.5146,Clase_C_alto_riesgo
+CLI-00721,Junín,Alto,Media,33109.44,1527.06,0.283,0.6788,Clase_A_bajo_riesgo
+CLI-01185,Lima,Medio,Media,104858.83,5503.7,0.4728,0.372,Clase_B_riesgo_medio
+CLI-01289,Lima,Alto,Media,42457.55,2179.97,0.1759,0.6905,Clase_A_bajo_riesgo
+CLI-01113,Lima,Alto,Alta,56375.4,2444.91,0.2618,0.6649,Clase_A_bajo_riesgo
+CLI-01994,Lima,Bajo,Baja,30520.52,1798.96,0.2558,0.5517,Clase_C_alto_riesgo
+CLI-01625,Lima,Bajo,Baja,22193.28,1509.79,0.3296,0.418,Clase_C_alto_riesgo
+CLI-00510,La Libertad,Alto,Alta,74188.2,3797.15,0.2869,0.6659,Clase_A_bajo_riesgo
+CLI-01696,Lima,Bajo,Baja,44648.37,1542.88,0.3003,0.4933,Clase_C_alto_riesgo
+CLI-01308,Piura,Bajo,Baja,27188.84,1520.76,0.2538,0.6726,Clase_B_riesgo_medio
+CLI-01448,Piura,Alto,Alta,53830.91,2524.96,0.0486,0.8518,Clase_A_bajo_riesgo
+CLI-01231,Piura,Medio,Media,52860.83,2759.06,0.3911,0.4921,Clase_B_riesgo_medio
+CLI-00292,Lima,Medio,Media,42737.24,1882.3,0.3224,0.6197,Clase_B_riesgo_medio
+CLI-01904,Lima,Bajo,Baja,62807.29,3308.19,0.399,0.4333,Clase_C_alto_riesgo
+CLI-01540,Arequipa,Bajo,Muy alta,68430.69,3459.98,0.0542,0.7516,Clase_A_bajo_riesgo
+CLI-01277,Lima,Alto,Baja,48041.76,2424.05,0.4565,0.4556,Clase_C_alto_riesgo
+CLI-01687,Junín,Muy alto,Muy alta,109449.75,6578.12,0.02,0.909,Clase_A_bajo_riesgo
+CLI-00127,Piura,Medio,Muy baja,27629.31,1971.28,0.6656,0.1209,Clase_C_alto_riesgo
+CLI-01727,Arequipa,Bajo,Baja,53655.14,3101.13,0.4553,0.4287,Clase_C_alto_riesgo
+CLI-00977,Cusco,Alto,Alta,56834.07,2339.87,0.066,0.8744,Clase_A_bajo_riesgo
+CLI-01940,Lima,Medio,Muy baja,32654.39,1491.21,0.574,0.2065,Clase_C_alto_riesgo
+CLI-01584,Arequipa,Alto,Baja,71568.18,3705.29,0.5496,0.3776,Clase_C_alto_riesgo
+CLI-01133,Lima,Muy alto,Media,85243.84,4045.01,0.394,0.4937,Clase_A_bajo_riesgo
+CLI-00232,Arequipa,Bajo,Baja,44482.14,2011.36,0.5833,0.198,Clase_C_alto_riesgo
+CLI-01124,Piura,Medio,Baja,28155.11,1839.32,0.4069,0.5964,Clase_C_alto_riesgo
+CLI-00869,Piura,Medio,Muy baja,37166.41,1907.6,0.3978,0.6052,Clase_B_riesgo_medio
+CLI-01581,Lima,Medio,Muy alta,29771.05,2310.67,0.1888,0.7524,Clase_B_riesgo_medio
+CLI-01890,Junín,Medio,Media,49594.08,2489.78,0.3606,0.4782,Clase_C_alto_riesgo
+CLI-00343,Lima,Bajo,Muy baja,66081.46,3836.84,0.5171,0.2629,Clase_C_alto_riesgo
+CLI-00683,Lima,Bajo,Media,33408.22,1823.5,0.2887,0.7286,Clase_C_alto_riesgo
+CLI-01752,Lima,Alto,Alta,43349.77,2196.82,0.0644,0.9269,Clase_A_bajo_riesgo
+CLI-01407,Piura,Alto,Alta,80090.02,3441.87,0.02,0.7979,Clase_A_bajo_riesgo
+CLI-00054,Piura,Muy alto,Alta,44906.8,2010.69,0.2578,0.7245,Clase_A_bajo_riesgo
+CLI-01693,Lima,Alto,Muy alta,21863.41,1513.61,0.1391,0.8631,Clase_A_bajo_riesgo
+CLI-00204,Piura,Bajo,Baja,22221.36,1412.83,0.2174,0.6375,Clase_B_riesgo_medio
+CLI-01690,La Libertad,Bajo,Alta,34503.03,1930.99,0.02,0.9162,Clase_A_bajo_riesgo
+CLI-01618,La Libertad,Alto,Media,79809.62,3933.19,0.4539,0.446,Clase_B_riesgo_medio
+CLI-00786,Junín,Bajo,Media,17012.17,998.27,0.2746,0.6388,Clase_C_alto_riesgo
+CLI-00793,Arequipa,Medio,Media,60828.39,2792.95,0.5291,0.3471,Clase_C_alto_riesgo
+CLI-01997,Junín,Medio,Media,35942.33,1774.84,0.2235,0.6589,Clase_A_bajo_riesgo
+CLI-01669,Lima,Bajo,Media,43569.47,1732.0,0.3404,0.5761,Clase_B_riesgo_medio
+CLI-01942,Lima,Alto,Muy alta,60831.77,2545.84,0.0506,0.8021,Clase_A_bajo_riesgo
+CLI-00724,La Libertad,Medio,Muy alta,53460.79,2993.73,0.02,0.8919,Clase_A_bajo_riesgo
+CLI-00552,Piura,Bajo,Media,42829.82,2410.24,0.3048,0.5672,Clase_C_alto_riesgo
+CLI-01744,Lima,Bajo,Baja,28659.77,1613.63,0.4493,0.3303,Clase_C_alto_riesgo
+CLI-00348,Lima,Medio,Baja,29686.96,1276.81,0.2753,0.6453,Clase_B_riesgo_medio
+CLI-01455,Lima,Muy alto,Alta,121532.76,5180.98,0.3892,0.5973,Clase_A_bajo_riesgo
+CLI-01933,Cusco,Medio,Baja,25037.03,1482.25,0.3665,0.4636,Clase_C_alto_riesgo
+CLI-01986,Lima,Muy alto,Muy alta,60184.2,2466.55,0.02,0.98,Clase_A_bajo_riesgo
+CLI-01637,Lima,Muy alto,Media,66367.02,2999.2,0.1752,0.7351,Clase_A_bajo_riesgo
+CLI-00186,Cusco,Muy alto,Muy alta,112128.43,4918.8,0.2149,0.7652,Clase_A_bajo_riesgo
+CLI-00222,Cusco,Medio,Alta,37920.86,1970.62,0.0585,0.8197,Clase_A_bajo_riesgo
+CLI-01860,La Libertad,Alto,Muy alta,128801.48,5502.34,0.0758,0.8355,Clase_A_bajo_riesgo
+CLI-00835,Arequipa,Medio,Alta,23607.38,1551.78,0.092,0.7515,Clase_B_riesgo_medio
+CLI-01335,Junín,Alto,Baja,47384.66,2607.22,0.3012,0.5194,Clase_B_riesgo_medio
+CLI-00745,Lima,Medio,Alta,94300.94,4584.21,0.1227,0.6578,Clase_A_bajo_riesgo
+CLI-00660,Cusco,Medio,Baja,47714.14,2296.15,0.3438,0.5576,Clase_B_riesgo_medio
+CLI-00495,Arequipa,Medio,Alta,59219.97,2916.03,0.209,0.6385,Clase_A_bajo_riesgo
+CLI-00806,La Libertad,Muy alto,Muy alta,94104.31,4116.89,0.1497,0.8552,Clase_A_bajo_riesgo
+CLI-00234,Arequipa,Alto,Alta,43692.28,2300.55,0.0356,0.8259,Clase_A_bajo_riesgo
+CLI-01404,La Libertad,Medio,Media,96108.73,5389.86,0.3847,0.5391,Clase_B_riesgo_medio
+CLI-01623,Cusco,Bajo,Muy baja,46913.08,2511.69,0.3673,0.4689,Clase_C_alto_riesgo
+CLI-01864,Arequipa,Bajo,Baja,31909.39,1796.4,0.459,0.3996,Clase_C_alto_riesgo
+CLI-00188,Cusco,Alto,Muy alta,110064.08,5935.92,0.5472,0.3537,Clase_B_riesgo_medio
+CLI-00681,Piura,Bajo,Muy baja,29206.38,1369.1,0.2028,0.5622,Clase_B_riesgo_medio
+CLI-00760,Piura,Bajo,Media,51966.86,2094.15,0.2245,0.6773,Clase_B_riesgo_medio
+CLI-00720,La Libertad,Bajo,Baja,46274.29,2517.08,0.1926,0.5291,Clase_B_riesgo_medio
+CLI-00612,Piura,Bajo,Alta,34196.89,1796.22,0.0231,0.8507,Clase_A_bajo_riesgo
+CLI-00927,Lima,Alto,Alta,97562.03,4387.31,0.3123,0.6112,Clase_B_riesgo_medio
+CLI-00790,Junín,Muy alto,Media,82678.16,4642.34,0.3006,0.716,Clase_B_riesgo_medio
+CLI-01698,Lima,Alto,Alta,144435.53,7858.45,0.193,0.5952,Clase_A_bajo_riesgo
+CLI-01414,Lima,Medio,Media,44636.67,2107.88,0.0552,0.662,Clase_A_bajo_riesgo
+CLI-01494,Lima,Alto,Alta,75215.54,3690.92,0.02,0.7493,Clase_A_bajo_riesgo
+CLI-00239,Cusco,Bajo,Muy baja,51129.86,2927.34,0.5446,0.2177,Clase_C_alto_riesgo
+CLI-01276,Lima,Alto,Media,47887.42,2299.05,0.0966,0.6661,Clase_B_riesgo_medio
+CLI-01216,Lima,Bajo,Muy baja,44419.27,2057.2,0.5952,0.1942,Clase_C_alto_riesgo
+CLI-00838,Lima,Bajo,Muy baja,42651.34,2680.34,0.7396,0.1566,Clase_C_alto_riesgo
+CLI-01094,Arequipa,Alto,Alta,64218.98,2876.83,0.2592,0.6182,Clase_A_bajo_riesgo
+CLI-00740,Lima,Bajo,Media,55271.28,3033.13,0.2107,0.7712,Clase_A_bajo_riesgo
+CLI-00696,Cusco,Medio,Muy baja,32835.99,1715.97,0.8172,0.1229,Clase_C_alto_riesgo
+CLI-01878,Arequipa,Alto,Muy alta,147245.64,7903.83,0.064,0.8958,Clase_A_bajo_riesgo
+CLI-00018,Arequipa,Alto,Muy baja,44536.96,2730.94,0.4932,0.4275,Clase_C_alto_riesgo
+CLI-01374,Arequipa,Alto,Media,84895.84,4031.52,0.3532,0.5534,Clase_B_riesgo_medio
+CLI-00031,Cusco,Bajo,Baja,59238.23,2659.22,0.5524,0.3123,Clase_C_alto_riesgo
+CLI-01008,Piura,Bajo,Media,57048.16,3303.31,0.1737,0.7039,Clase_B_riesgo_medio
+CLI-01665,Junín,Medio,Baja,36266.3,1820.97,0.4,0.4908,Clase_B_riesgo_medio
+CLI-01553,Piura,Medio,Media,39688.9,2241.81,0.3676,0.5677,Clase_C_alto_riesgo
+CLI-00711,La Libertad,Alto,Alta,62514.71,2696.93,0.2516,0.6107,Clase_B_riesgo_medio
+CLI-00254,Lima,Alto,Muy alta,50859.95,2478.52,0.02,0.98,Clase_A_bajo_riesgo
+CLI-01704,Arequipa,Alto,Alta,43307.34,2628.5,0.02,0.9624,Clase_A_bajo_riesgo
+CLI-01813,Lima,Bajo,Muy alta,75427.27,3260.34,0.2105,0.6874,Clase_B_riesgo_medio
+CLI-01985,Lima,Alto,Muy baja,87805.09,4337.97,0.5432,0.2184,Clase_B_riesgo_medio
+CLI-00192,Piura,Alto,Media,56271.4,3121.77,0.3349,0.5829,Clase_B_riesgo_medio
+CLI-00231,Piura,Alto,Alta,82242.03,3605.66,0.4095,0.4959,Clase_B_riesgo_medio
+CLI-00386,Piura,Medio,Alta,33209.69,2011.86,0.02,0.98,Clase_A_bajo_riesgo
+CLI-00643,Lima,Alto,Media,34973.78,1733.57,0.2309,0.6253,Clase_A_bajo_riesgo
+CLI-01051,Piura,Bajo,Muy baja,30466.9,1422.02,0.3817,0.4166,Clase_C_alto_riesgo
+CLI-01015,La Libertad,Medio,Media,41606.59,2136.72,0.2589,0.7676,Clase_C_alto_riesgo
+CLI-00381,Lima,Alto,Media,58184.18,2440.9,0.3472,0.5517,Clase_C_alto_riesgo
+CLI-00480,Arequipa,Alto,Alta,68228.88,2989.64,0.1993,0.6405,Clase_A_bajo_riesgo
+CLI-01243,La Libertad,Medio,Baja,60184.85,3146.31,0.5704,0.2636,Clase_C_alto_riesgo
+CLI-01001,Lima,Alto,Media,46307.8,2479.24,0.511,0.3903,Clase_C_alto_riesgo
+CLI-01679,Lima,Alto,Alta,49611.18,2625.69,0.1146,0.7865,Clase_A_bajo_riesgo
+CLI-00723,Lima,Alto,Alta,66479.31,2300.56,0.3907,0.4931,Clase_C_alto_riesgo
+CLI-01481,Piura,Bajo,Media,19602.48,1214.63,0.2206,0.6762,Clase_B_riesgo_medio
+CLI-00021,Cusco,Muy alto,Muy alta,101785.07,4773.96,0.2149,0.7515,Clase_A_bajo_riesgo
+CLI-01780,Piura,Alto,Muy alta,94598.45,4834.56,0.0644,0.8982,Clase_A_bajo_riesgo
+CLI-01303,Lima,Medio,Baja,78563.84,3563.65,0.4362,0.4155,Clase_B_riesgo_medio
+CLI-01838,Lima,Bajo,Baja,41414.79,2111.96,0.3359,0.5665,Clase_C_alto_riesgo
+CLI-01797,La Libertad,Medio,Media,56624.95,2529.83,0.3105,0.4592,Clase_C_alto_riesgo
+CLI-00471,Lima,Bajo,Muy baja,23476.04,917.48,0.3262,0.5384,Clase_C_alto_riesgo
+CLI-00063,Piura,Alto,Muy baja,39773.12,2619.63,0.6504,0.1458,Clase_C_alto_riesgo
+CLI-00038,Lima,Bajo,Baja,20652.59,1215.58,0.3097,0.4925,Clase_C_alto_riesgo
+CLI-01720,Lima,Bajo,Muy baja,49723.97,2116.97,0.5832,0.1973,Clase_C_alto_riesgo
+CLI-00175,Cusco,Bajo,Muy baja,77198.77,4352.77,0.4018,0.3111,Clase_B_riesgo_medio
+CLI-01477,Piura,Muy alto,Alta,54278.98,2326.16,0.0416,0.9063,Clase_A_bajo_riesgo
+CLI-00801,La Libertad,Alto,Muy alta,90616.97,4236.45,0.0635,0.9265,Clase_A_bajo_riesgo
+CLI-01480,Arequipa,Medio,Media,31453.9,1275.34,0.4863,0.4136,Clase_C_alto_riesgo
+CLI-01779,Lima,Medio,Alta,50070.94,2679.19,0.3078,0.5026,Clase_C_alto_riesgo
+CLI-00947,Lima,Medio,Alta,48834.73,2056.37,0.0657,0.8678,Clase_A_bajo_riesgo
+CLI-01846,Lima,Medio,Muy alta,44115.47,1836.2,0.1852,0.8591,Clase_A_bajo_riesgo
+CLI-01048,Lima,Medio,Alta,39418.88,2253.21,0.2007,0.7071,Clase_B_riesgo_medio
+CLI-01400,La Libertad,Medio,Alta,57346.23,3600.33,0.1263,0.6953,Clase_A_bajo_riesgo
+CLI-00104,Arequipa,Alto,Alta,60323.74,2801.83,0.2033,0.7023,Clase_A_bajo_riesgo
+CLI-01214,Piura,Alto,Alta,48170.6,2233.19,0.3019,0.7037,Clase_B_riesgo_medio
+CLI-00278,Cusco,Medio,Alta,70110.94,3325.23,0.1491,0.6689,Clase_B_riesgo_medio
+CLI-01528,Lima,Alto,Media,76331.44,3864.09,0.2133,0.6881,Clase_A_bajo_riesgo
+CLI-01219,Cusco,Alto,Media,24071.15,1119.83,0.4214,0.5036,Clase_B_riesgo_medio
+CLI-00324,Lima,Medio,Alta,18597.97,1199.92,0.1329,0.6487,Clase_B_riesgo_medio
+CLI-00437,Lima,Medio,Baja,80701.19,4654.28,0.6196,0.2188,Clase_C_alto_riesgo
+CLI-00314,Junín,Alto,Alta,57484.24,2924.08,0.0415,0.781,Clase_A_bajo_riesgo
+CLI-00999,Junín,Medio,Media,61088.81,3041.93,0.1865,0.6979,Clase_A_bajo_riesgo
+CLI-00487,Lima,Medio,Media,36747.29,2251.4,0.2811,0.5618,Clase_B_riesgo_medio
+CLI-00178,Lima,Medio,Baja,30031.18,1618.17,0.2416,0.5961,Clase_A_bajo_riesgo
+CLI-00312,Lima,Alto,Baja,54552.11,2905.77,0.3039,0.5219,Clase_B_riesgo_medio
+CLI-01351,Piura,Bajo,Media,54173.66,2309.17,0.2317,0.5256,Clase_B_riesgo_medio
+CLI-00216,Lima,Medio,Media,99382.84,4392.29,0.4512,0.264,Clase_C_alto_riesgo
+CLI-00307,Arequipa,Bajo,Baja,45098.71,2332.63,0.3751,0.5251,Clase_B_riesgo_medio
+CLI-01203,Lima,Bajo,Baja,47420.66,2749.75,0.6349,0.2064,Clase_C_alto_riesgo
+CLI-00266,La Libertad,Medio,Baja,58625.1,3118.35,0.468,0.4027,Clase_C_alto_riesgo
+CLI-01547,Piura,Bajo,Muy baja,52543.58,2947.06,0.6482,0.2161,Clase_C_alto_riesgo
+CLI-01027,Piura,Muy alto,Muy baja,58575.5,2929.09,0.5095,0.5258,Clase_B_riesgo_medio
+CLI-01515,Lima,Alto,Muy alta,71146.68,3617.73,0.1592,0.7833,Clase_A_bajo_riesgo
+CLI-00194,Cusco,Medio,Alta,43934.49,2364.56,0.1581,0.6155,Clase_B_riesgo_medio
+CLI-00261,Cusco,Alto,Media,36272.04,1813.67,0.2799,0.5778,Clase_A_bajo_riesgo
+CLI-00521,Cusco,Alto,Muy alta,93232.24,4536.61,0.0642,0.7968,Clase_A_bajo_riesgo
+CLI-00637,Arequipa,Muy alto,Muy alta,70473.67,3402.81,0.2477,0.7215,Clase_A_bajo_riesgo
+CLI-01176,Arequipa,Bajo,Muy baja,45514.27,2418.37,0.6836,0.242,Clase_C_alto_riesgo
+CLI-00235,Lima,Alto,Media,57635.29,2657.23,0.3588,0.5485,Clase_B_riesgo_medio
+CLI-00722,Lima,Alto,Muy alta,55017.87,2932.48,0.0553,0.9482,Clase_A_bajo_riesgo
+CLI-01116,Cusco,Alto,Muy alta,39328.32,1779.81,0.02,0.8905,Clase_A_bajo_riesgo
+CLI-00604,Lima,Medio,Alta,49800.74,2793.11,0.2296,0.7526,Clase_A_bajo_riesgo
+CLI-01911,Lima,Bajo,Media,41864.23,2775.19,0.228,0.6293,Clase_B_riesgo_medio
+CLI-00004,Cusco,Bajo,Alta,50173.57,2061.08,0.1632,0.6843,Clase_B_riesgo_medio
+CLI-01318,La Libertad,Bajo,Media,51294.75,2630.38,0.2926,0.6069,Clase_A_bajo_riesgo
+CLI-00594,Lima,Medio,Baja,56673.42,2590.62,0.4239,0.3907,Clase_C_alto_riesgo
+CLI-01307,La Libertad,Medio,Baja,40118.54,2064.41,0.0488,0.7123,Clase_B_riesgo_medio
+CLI-01324,Lima,Medio,Media,55748.47,2280.54,0.2723,0.724,Clase_B_riesgo_medio
+CLI-01346,Arequipa,Alto,Muy baja,69351.26,2940.49,0.6702,0.219,Clase_C_alto_riesgo
+CLI-01767,La Libertad,Medio,Media,59278.96,2191.07,0.1978,0.7959,Clase_B_riesgo_medio
+CLI-00166,Piura,Muy alto,Alta,77499.82,3925.77,0.447,0.5888,Clase_B_riesgo_medio
+CLI-00434,Lima,Medio,Muy alta,62916.64,3182.04,0.2805,0.6517,Clase_B_riesgo_medio
+CLI-01548,Cusco,Medio,Muy baja,47624.82,2311.65,0.5647,0.2829,Clase_C_alto_riesgo
+CLI-01607,Lima,Alto,Alta,40624.12,1703.6,0.0538,0.7728,Clase_B_riesgo_medio
+CLI-01139,Arequipa,Medio,Muy alta,33492.14,2037.24,0.0532,0.8177,Clase_A_bajo_riesgo
+CLI-01542,Lima,Alto,Media,49599.21,2099.92,0.0998,0.7878,Clase_A_bajo_riesgo
+CLI-01616,La Libertad,Bajo,Alta,42504.48,2101.93,0.0851,0.6895,Clase_B_riesgo_medio
+CLI-01757,Junín,Bajo,Muy baja,26021.3,1539.54,0.5974,0.2499,Clase_C_alto_riesgo
+CLI-01961,Lima,Medio,Baja,27410.39,1384.08,0.2555,0.5713,Clase_B_riesgo_medio
+CLI-00934,Arequipa,Medio,Muy alta,85801.49,4388.57,0.2623,0.8019,Clase_A_bajo_riesgo
+CLI-01268,Arequipa,Medio,Muy baja,32517.76,1809.86,0.4095,0.4009,Clase_C_alto_riesgo
+CLI-01136,Lima,Medio,Media,46202.17,2898.06,0.4508,0.563,Clase_C_alto_riesgo
+CLI-01352,Cusco,Medio,Media,48706.99,2919.15,0.3698,0.5315,Clase_B_riesgo_medio
+CLI-01411,Lima,Medio,Media,86838.45,4406.18,0.3374,0.5816,Clase_B_riesgo_medio
+CLI-01993,Cusco,Alto,Alta,140760.29,7276.18,0.4601,0.5205,Clase_B_riesgo_medio
+CLI-00389,La Libertad,Alto,Media,76963.38,4498.01,0.4281,0.5389,Clase_B_riesgo_medio
+CLI-01194,Cusco,Medio,Alta,50921.86,2230.32,0.1574,0.7682,Clase_A_bajo_riesgo
+CLI-00647,Cusco,Muy alto,Alta,50048.15,2781.79,0.121,0.9336,Clase_A_bajo_riesgo
+CLI-00416,Arequipa,Muy alto,Media,75639.94,3883.73,0.3106,0.5389,Clase_B_riesgo_medio
+CLI-00987,La Libertad,Bajo,Muy baja,23690.13,1616.84,0.4848,0.3674,Clase_C_alto_riesgo
+CLI-00719,Lima,Alto,Media,85050.97,3399.03,0.3072,0.539,Clase_A_bajo_riesgo
+CLI-01863,Lima,Medio,Muy baja,48922.62,2989.39,0.6515,0.1865,Clase_C_alto_riesgo
+CLI-01403,Lima,Muy alto,Alta,46785.43,2249.14,0.124,0.7689,Clase_A_bajo_riesgo
+CLI-00867,Lima,Medio,Media,38642.8,1337.15,0.2899,0.638,Clase_B_riesgo_medio
+CLI-00398,Arequipa,Bajo,Alta,41678.19,1935.95,0.1783,0.6999,Clase_C_alto_riesgo
+CLI-00113,Junín,Bajo,Muy baja,38872.65,1918.1,0.6819,0.2021,Clase_C_alto_riesgo
+CLI-00904,Cusco,Medio,Media,55610.19,3013.06,0.2936,0.5863,Clase_C_alto_riesgo
+CLI-00811,Junín,Bajo,Media,90744.63,4468.73,0.3326,0.5137,Clase_B_riesgo_medio
+CLI-01563,Piura,Bajo,Baja,61865.61,3184.74,0.4194,0.4898,Clase_C_alto_riesgo
+CLI-00582,Junín,Alto,Alta,35516.12,2016.96,0.0928,0.8011,Clase_A_bajo_riesgo
+CLI-01554,Piura,Medio,Media,62640.14,3440.67,0.2543,0.7336,Clase_B_riesgo_medio
+CLI-00713,Arequipa,Medio,Muy baja,29487.32,1820.97,0.5847,0.287,Clase_C_alto_riesgo
+CLI-01443,La Libertad,Bajo,Muy alta,38868.33,1724.91,0.0225,0.7824,Clase_A_bajo_riesgo
+CLI-00008,Piura,Alto,Media,30464.13,1759.02,0.2167,0.6983,Clase_A_bajo_riesgo
+CLI-01491,Lima,Bajo,Muy baja,22825.85,1461.3,0.5621,0.2831,Clase_C_alto_riesgo
+CLI-00147,Cusco,Medio,Baja,75986.59,3734.36,0.5708,0.3171,Clase_C_alto_riesgo
+CLI-00433,Cusco,Muy alto,Muy alta,105449.15,4646.43,0.02,0.9133,Clase_A_bajo_riesgo
+CLI-00121,Piura,Alto,Muy alta,61098.78,2816.57,0.2382,0.57,Clase_A_bajo_riesgo
+CLI-01053,Junín,Bajo,Media,38276.47,2301.53,0.2765,0.6204,Clase_B_riesgo_medio
+CLI-01500,Piura,Alto,Media,41456.97,2771.57,0.3158,0.5328,Clase_A_bajo_riesgo
+CLI-01013,Junín,Medio,Media,27826.24,1303.94,0.1169,0.7394,Clase_A_bajo_riesgo
+CLI-01579,Cusco,Alto,Alta,43891.02,2466.39,0.1967,0.8229,Clase_A_bajo_riesgo
+CLI-00404,Piura,Medio,Muy baja,37512.51,1739.09,0.5904,0.2243,Clase_C_alto_riesgo
+CLI-01707,Cusco,Alto,Alta,57593.72,2980.95,0.02,0.9293,Clase_A_bajo_riesgo
+CLI-00295,Lima,Bajo,Baja,40194.73,2193.62,0.3036,0.5365,Clase_B_riesgo_medio
+CLI-01545,Junín,Alto,Baja,76357.57,2684.22,0.1878,0.6496,Clase_B_riesgo_medio
+CLI-00368,Junín,Medio,Baja,32013.9,1469.4,0.1676,0.7488,Clase_B_riesgo_medio
+CLI-01151,La Libertad,Medio,Media,46405.34,2234.12,0.2602,0.6997,Clase_A_bajo_riesgo
+CLI-01871,Piura,Medio,Baja,81590.55,3615.97,0.592,0.2003,Clase_C_alto_riesgo
+CLI-00797,Junín,Bajo,Media,33838.47,2153.68,0.3584,0.6173,Clase_A_bajo_riesgo
+CLI-00988,Arequipa,Medio,Media,18403.99,1069.91,0.1297,0.7184,Clase_C_alto_riesgo
+CLI-01386,Lima,Alto,Media,47234.8,2374.67,0.2949,0.5753,Clase_C_alto_riesgo
+CLI-01043,Lima,Bajo,Alta,46285.77,1486.94,0.1087,0.7877,Clase_B_riesgo_medio
+CLI-01991,La Libertad,Bajo,Baja,56033.91,3065.94,0.504,0.3035,Clase_C_alto_riesgo
+CLI-00272,Piura,Medio,Media,76001.07,2804.05,0.1846,0.7491,Clase_A_bajo_riesgo
+CLI-01974,Arequipa,Alto,Muy alta,81687.72,4327.64,0.02,0.8675,Clase_A_bajo_riesgo
+CLI-00410,Lima,Medio,Baja,75225.15,3691.28,0.5581,0.3151,Clase_C_alto_riesgo
+CLI-00691,Lima,Medio,Baja,47241.24,2085.58,0.5346,0.4378,Clase_C_alto_riesgo
+CLI-01662,Arequipa,Medio,Muy baja,44971.63,2252.65,0.3325,0.5186,Clase_B_riesgo_medio
+CLI-01360,Cusco,Medio,Alta,56996.23,3157.72,0.2627,0.6783,Clase_B_riesgo_medio
+CLI-00267,La Libertad,Medio,Baja,25466.41,1037.65,0.0931,0.7475,Clase_B_riesgo_medio
+CLI-00634,Arequipa,Bajo,Alta,36072.38,1330.21,0.2484,0.5971,Clase_B_riesgo_medio
+CLI-01175,Cusco,Bajo,Baja,56207.12,2741.99,0.2529,0.5813,Clase_B_riesgo_medio
+CLI-01969,Lima,Medio,Media,45070.49,2434.69,0.3994,0.472,Clase_B_riesgo_medio
+CLI-00442,Junín,Medio,Baja,45869.65,2499.8,0.4231,0.484,Clase_C_alto_riesgo
+CLI-00079,Lima,Muy alto,Muy alta,103035.48,4260.94,0.094,0.7852,Clase_A_bajo_riesgo
+CLI-01700,Arequipa,Bajo,Muy alta,60509.1,2968.68,0.1769,0.6913,Clase_A_bajo_riesgo
+CLI-00413,Junín,Medio,Baja,44665.5,2079.45,0.6687,0.1377,Clase_C_alto_riesgo
+CLI-01956,Junín,Alto,Baja,34765.78,1627.55,0.3756,0.5363,Clase_B_riesgo_medio
