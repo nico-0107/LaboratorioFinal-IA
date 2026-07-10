@@ -1,4 +1,4 @@
-# 📘 Proyecto
+# 📘 Laboratorio Final
 
 ---
 
