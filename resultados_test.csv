@@ -21,7 +21,7 @@ Lima,Alto,Media,32945.92,1866.42,0.1726,0.5904,Clase_B_riesgo_medio,Clase_A_bajo
 Arequipa,Alto,Alta,61204.99,2463.93,0.2498,0.6251,Clase_A_bajo_riesgo,Clase_B_riesgo_medio
 Cusco,Alto,Media,29981.05,1844.55,0.1373,0.7002,Clase_A_bajo_riesgo,Clase_A_bajo_riesgo
 Arequipa,Muy alto,Alta,46614.17,2402.12,0.2627,0.6821,Clase_B_riesgo_medio,Clase_A_bajo_riesgo
-Cusco,Medio,Baja,21538.75,1222.84,0.351,0.5959,Clase_B_riesgo_medio,Clase_B_riesgo_medio
+Cusco,Medio,Baja,21538.75,1222.84,0.351,0.5959,Clase_B_riesgo_medio,Clase_C_alto_riesgo
 Piura,Alto,Media,46657.57,1930.31,0.2139,0.6775,Clase_A_bajo_riesgo,Clase_A_bajo_riesgo
 La Libertad,Medio,Muy alta,104334.62,4321.92,0.2975,0.5368,Clase_B_riesgo_medio,Clase_B_riesgo_medio
 Arequipa,Bajo,Muy baja,52719.62,2296.33,0.5632,0.4401,Clase_C_alto_riesgo,Clase_C_alto_riesgo
@@ -49,7 +49,7 @@ Piura,Alto,Muy baja,70667.69,3571.31,0.6823,0.2949,Clase_C_alto_riesgo,Clase_C_a
 Cusco,Medio,Media,68835.79,3440.72,0.4795,0.3533,Clase_B_riesgo_medio,Clase_C_alto_riesgo
 Lima,Alto,Muy baja,48994.69,1886.52,0.5886,0.3763,Clase_C_alto_riesgo,Clase_C_alto_riesgo
 La Libertad,Medio,Muy alta,42575.43,2448.9,0.0649,0.9247,Clase_A_bajo_riesgo,Clase_A_bajo_riesgo
-Lima,Bajo,Muy baja,41168.07,1720.3,0.275,0.5778,Clase_C_alto_riesgo,Clase_B_riesgo_medio
+Lima,Bajo,Muy baja,41168.07,1720.3,0.275,0.5778,Clase_C_alto_riesgo,Clase_C_alto_riesgo
 Piura,Bajo,Alta,67919.62,3958.0,0.4261,0.5696,Clase_B_riesgo_medio,Clase_B_riesgo_medio
 Piura,Bajo,Baja,26881.46,1268.36,0.2404,0.4559,Clase_B_riesgo_medio,Clase_C_alto_riesgo
 La Libertad,Medio,Muy baja,29682.51,1406.41,0.3892,0.4785,Clase_B_riesgo_medio,Clase_C_alto_riesgo
@@ -78,7 +78,7 @@ Lima,Alto,Alta,98086.49,5183.68,0.3662,0.5019,Clase_B_riesgo_medio,Clase_B_riesg
 Lima,Alto,Muy alta,130066.93,6138.5,0.2796,0.6955,Clase_A_bajo_riesgo,Clase_A_bajo_riesgo
 Cusco,Bajo,Media,77756.45,4389.38,0.1003,0.8756,Clase_A_bajo_riesgo,Clase_A_bajo_riesgo
 Arequipa,Medio,Baja,54636.58,2185.82,0.5068,0.3248,Clase_C_alto_riesgo,Clase_C_alto_riesgo
-Lima,Alto,Media,47247.25,2126.95,0.4373,0.481,Clase_C_alto_riesgo,Clase_C_alto_riesgo
+Lima,Alto,Media,47247.25,2126.95,0.4373,0.481,Clase_C_alto_riesgo,Clase_B_riesgo_medio
 Cusco,Bajo,Baja,57679.52,3072.64,0.5937,0.2259,Clase_C_alto_riesgo,Clase_C_alto_riesgo
 La Libertad,Bajo,Baja,49767.18,2803.21,0.4587,0.1984,Clase_C_alto_riesgo,Clase_C_alto_riesgo
 Piura,Bajo,Baja,49950.88,2403.33,0.2503,0.5032,Clase_B_riesgo_medio,Clase_B_riesgo_medio
@@ -102,7 +102,7 @@ Lima,Alto,Baja,55456.61,2783.39,0.5959,0.3023,Clase_C_alto_riesgo,Clase_C_alto_r
 Cusco,Medio,Media,29301.98,1147.93,0.2771,0.5274,Clase_B_riesgo_medio,Clase_B_riesgo_medio
 Junín,Medio,Alta,55022.66,2312.28,0.4198,0.5304,Clase_B_riesgo_medio,Clase_B_riesgo_medio
 Arequipa,Medio,Baja,30625.45,1443.36,0.2281,0.6868,Clase_B_riesgo_medio,Clase_B_riesgo_medio
-Cusco,Alto,Alta,111697.0,5021.52,0.3704,0.5817,Clase_A_bajo_riesgo,Clase_B_riesgo_medio
+Cusco,Alto,Alta,111697.0,5021.52,0.3704,0.5817,Clase_A_bajo_riesgo,Clase_A_bajo_riesgo
 Lima,Muy alto,Muy alta,94978.59,4376.82,0.1144,0.9165,Clase_A_bajo_riesgo,Clase_A_bajo_riesgo
 Arequipa,Alto,Baja,47590.58,1927.41,0.2825,0.5153,Clase_B_riesgo_medio,Clase_B_riesgo_medio
 Arequipa,Alto,Muy alta,71771.0,3122.61,0.02,0.8931,Clase_A_bajo_riesgo,Clase_A_bajo_riesgo
@@ -196,7 +196,7 @@ Lima,Muy alto,Media,85243.84,4045.01,0.394,0.4937,Clase_A_bajo_riesgo,Clase_A_ba
 Arequipa,Bajo,Baja,44482.14,2011.36,0.5833,0.198,Clase_C_alto_riesgo,Clase_C_alto_riesgo
 Piura,Medio,Baja,28155.11,1839.32,0.4069,0.5964,Clase_C_alto_riesgo,Clase_B_riesgo_medio
 Piura,Medio,Muy baja,37166.41,1907.6,0.3978,0.6052,Clase_B_riesgo_medio,Clase_B_riesgo_medio
-Lima,Medio,Muy alta,29771.05,2310.67,0.1888,0.7524,Clase_B_riesgo_medio,Clase_B_riesgo_medio
+Lima,Medio,Muy alta,29771.05,2310.67,0.1888,0.7524,Clase_B_riesgo_medio,Clase_A_bajo_riesgo
 Junín,Medio,Media,49594.08,2489.78,0.3606,0.4782,Clase_C_alto_riesgo,Clase_B_riesgo_medio
 Lima,Bajo,Muy baja,66081.46,3836.84,0.5171,0.2629,Clase_C_alto_riesgo,Clase_C_alto_riesgo
 Lima,Bajo,Media,33408.22,1823.5,0.2887,0.7286,Clase_C_alto_riesgo,Clase_B_riesgo_medio
@@ -257,7 +257,7 @@ Cusco,Bajo,Baja,59238.23,2659.22,0.5524,0.3123,Clase_C_alto_riesgo,Clase_C_alto_
 Piura,Bajo,Media,57048.16,3303.31,0.1737,0.7039,Clase_B_riesgo_medio,Clase_B_riesgo_medio
 Junín,Medio,Baja,36266.3,1820.97,0.4,0.4908,Clase_B_riesgo_medio,Clase_C_alto_riesgo
 Piura,Medio,Media,39688.9,2241.81,0.3676,0.5677,Clase_C_alto_riesgo,Clase_B_riesgo_medio
-La Libertad,Alto,Alta,62514.71,2696.93,0.2516,0.6107,Clase_B_riesgo_medio,Clase_B_riesgo_medio
+La Libertad,Alto,Alta,62514.71,2696.93,0.2516,0.6107,Clase_B_riesgo_medio,Clase_A_bajo_riesgo
 Lima,Alto,Muy alta,50859.95,2478.52,0.02,0.98,Clase_A_bajo_riesgo,Clase_A_bajo_riesgo
 Arequipa,Alto,Alta,43307.34,2628.5,0.02,0.9624,Clase_A_bajo_riesgo,Clase_A_bajo_riesgo
 Lima,Bajo,Muy alta,75427.27,3260.34,0.2105,0.6874,Clase_B_riesgo_medio,Clase_B_riesgo_medio
@@ -388,7 +388,7 @@ Piura,Medio,Media,76001.07,2804.05,0.1846,0.7491,Clase_A_bajo_riesgo,Clase_A_baj
 Arequipa,Alto,Muy alta,81687.72,4327.64,0.02,0.8675,Clase_A_bajo_riesgo,Clase_A_bajo_riesgo
 Lima,Medio,Baja,75225.15,3691.28,0.5581,0.3151,Clase_C_alto_riesgo,Clase_C_alto_riesgo
 Lima,Medio,Baja,47241.24,2085.58,0.5346,0.4378,Clase_C_alto_riesgo,Clase_C_alto_riesgo
-Arequipa,Medio,Muy baja,44971.63,2252.65,0.3325,0.5186,Clase_B_riesgo_medio,Clase_B_riesgo_medio
+Arequipa,Medio,Muy baja,44971.63,2252.65,0.3325,0.5186,Clase_B_riesgo_medio,Clase_C_alto_riesgo
 Cusco,Medio,Alta,56996.23,3157.72,0.2627,0.6783,Clase_B_riesgo_medio,Clase_B_riesgo_medio
 La Libertad,Medio,Baja,25466.41,1037.65,0.0931,0.7475,Clase_B_riesgo_medio,Clase_A_bajo_riesgo
 Arequipa,Bajo,Alta,36072.38,1330.21,0.2484,0.5971,Clase_B_riesgo_medio,Clase_B_riesgo_medio
